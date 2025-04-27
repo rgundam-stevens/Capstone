@@ -84,13 +84,6 @@ It analyzes daily, weekly, and monthly data for key assets: **BTC (Bitcoin)**, *
 
 2. Run `Capstone.ipynb` in a Jupyter environment (Google Colab / JupyterLab / VSCode).
 
----
-
-## ✍️ Author
-
-- **Your Name Here** *(optional)*
-
----
 
 ## 📌 Notes
 
